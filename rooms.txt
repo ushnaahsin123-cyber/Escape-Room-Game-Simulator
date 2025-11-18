@@ -1,0 +1,181 @@
+6
+
+ROOM
+Ancient Library
+A dusty library filled with ancient tomes and scrolls.
+OBJECTS 3
+OBJECT
+Bookshelf
+An old bookshelf with various books.
+2
+The letters are scrambled. Unscramble them to reveal a detective keyword: R O T A E D
+ORATED
+0
+NOITEM
+OBJECT
+Desk
+An old wooden desk with a locked drawer.
+1
+What is the smallest positive integer that is not a prime number?
+1
+1
+Old Key
+OBJECT
+Scroll Presentation
+A scroll depicting ancient detective techniques.
+1
+I am the opening act, the first to unfurl before the main story begins. What number am I?
+1
+0
+NOITEM
+ENDROOM
+
+ROOM
+Hidden Chamber
+A secret room behind a bookcase, dimly lit with candles.
+OBJECTS 3
+OBJECT
+Mysterious Box
+A box with strange symbols.
+2
+Unscramble the letters to form a clue: D O L C E Y E B
+CODELYBE
+0
+NOITEM
+OBJECT
+Statue
+A stone statue holding a tablet.
+1
+What is the smallest whole number that is equal to seven times the sum of its digits?
+21
+1
+Ancient Coin
+OBJECT
+Wall Carving
+Symbols carved into the stone wall.
+1
+What is the highest 3digit number that is equal to the sum of the factorials of its digits?
+145
+0
+NOITEM
+ENDROOM
+
+ROOM
+Abandoned Office
+A dusty old office with papers scattered around.
+OBJECTS 3
+OBJECT
+Filing Cabinet
+An old rusty filing cabinet.
+1
+What is half of 2 plus 2
+3
+1
+Office Key
+OBJECT
+Computer
+An ancient computer terminal.
+2
+Unscramble the detective term: N O I V T A G I N S E
+INVESTIGATION
+0
+NOITEM
+OBJECT
+Desk Drawer
+A locked drawer with no visible keyhole.
+1
+My combination is the number of lives a cat has, times the number of sides on a cube.
+54
+0
+NOITEM
+ENDROOM
+
+ROOM
+Crime Scene Alley
+A narrow alley with clues scattered around.
+OBJECTS 3
+OBJECT
+Trash Bin
+A heavy trash bin with a hidden note.
+1
+What is the only number that has the same number of letters as its value?
+4
+1
+Rubber Gloves
+OBJECT
+Graffiti Wall
+A wall covered with cryptic graffiti.
+2
+Unscramble: E C I D V E E N
+EVIDENCE
+0
+NOITEM
+OBJECT
+Broken Bottle
+A shattered glass bottle.
+1
+What is the only integer that is twice the sum of its digits?
+18
+0
+NOITEM
+ENDROOM
+
+ROOM
+Detective’s Office
+Your personal investigation space.
+OBJECTS 3
+OBJECT
+Case Board
+A board with photos and red string.
+2
+Unscramble the final keyword: O I L S T U O N
+SOLUTION
+0
+NOITEM
+OBJECT
+Safe
+A locked safe requiring a numeric code.
+1
+A farmer has 17 sheep, and all but 9 die. How many are left?
+9
+1
+Master Key
+OBJECT
+Desk Lamp
+A lamp flickering weakly.
+1
+What comes next in the sequence: 1, 1, 2, 3, 5, 8, ...?
+13
+0
+NOITEM
+ENDROOM
+
+ROOM
+Interrogation Room
+A cold, quiet room with a single metal table.
+OBJECTS 3
+OBJECT
+Voice Recorder
+A recorder with a password lock.
+2
+Unscramble the detective term: S O N F E S S I O C
+CONFESSION
+0
+NOITEM
+OBJECT
+Metal Box
+A box secured with a combination lock.
+1
+What digit is the most frequent between the numbers 1 and 1,000?
+1
+1
+Final Key
+OBJECT
+Observation Mirror
+A one-way mirror.
+1
+What is the only even prime number?
+2
+0
+NOITEM
+ENDROOM
