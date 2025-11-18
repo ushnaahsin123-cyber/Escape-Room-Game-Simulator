@@ -30,7 +30,7 @@ rooms.txt - Room and puzzle definitions
 savegame.dat - Save game data (auto-generated)
 highscores.dat - High scores data (auto-generated)
 
-**How to Play**
+## **How to Play**
 Start Game: Choose from main menu
 Navigate Rooms: Solve all puzzles in each room to proceed
 Interact with Objects: Select objects by number to inspect
@@ -39,13 +39,13 @@ Use Inventory: Collect and use items with 'I' command
 Save Progress: Use 'S' to save your game
 Quit: Use 'Q' to return to main menu
 
-**Controls**
+## **Controls**
 Numbers 1-9: Select objects in current room
 I: View and use inventory
 S: Save game progress
 Q: Quit to main menu
 
-**Project Structure**
+## **Project Structure**
 escape-room/
 ├── main.cpp          # Main game source code
 ├── rooms.txt         # Room and object definitions
@@ -53,10 +53,10 @@ escape-room/
 ├── highscores.dat    # High scores (auto-generated)
 └── README.md         # This file
 
-**Credits**
+## **Credits**
 Created for C++ Programming Course
 Uses standard C++ libraries
 Built with object-oriented design principles
 
-**Date**
+# **Date**
 18/11/2025
